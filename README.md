@@ -19,5 +19,5 @@ Laminador más avanzado con mejores características.
 Laminador más avanzado con mejor perfíl multicolor, test de calibración e intefaz más complicada.
  
 
-
+Al descargar el laminador, dirigete al apartado de instalación correspondiente.
 
